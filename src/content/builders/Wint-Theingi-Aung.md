@@ -16,6 +16,7 @@ certs:
   ai_fluency: 2khj2bbwq5nq
   claude_platform_101: 3wetb5hu6b3z
   claude_cowork: 2cx97495i2r6
+  building_claude_api: ppn3t6na6apq
   
 ---
 
