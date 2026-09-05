@@ -2348,18 +2348,29 @@
     "github": "vibecode-ting",
     "name": "vibecode-ting",
     "title": "myanmardev.com",
-    "desc": "🔹 Personal Project Builds for Cohort 1 :  https://vibecode.tours/cohort/1/   -----------------------------------------🔹 Live: https://app.myanmardev.com",
+    "desc": "",
     "repo_url": "https://github.com/vibecode-ting/myanmardev.com",
     "live_url": "https://app.myanmardev.com",
     "slides_raw": "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/archive/slides/intro.md",
     "slides_base": "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/archive/slides/",
-    "screenshot_url": null,
-    "screenshots": [],
+    "screenshot_url": "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/02_cmd.png",
+    "screenshots": [
+      "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/02_cmd.png",
+      "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/01_main.png",
+      "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/04_check.png",
+      "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/01_main_mm.png",
+      "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/07_roadmap.png",
+      "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/09_DOMAINS.png",
+      "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/10_DNS_Records.png",
+      "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/03_what_we_ship.png",
+      "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/05_avaliable_domains.png",
+      "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/08_cloudflare_wokers.png"
+    ],
     "type": "web-app",
     "stack": [
       "TypeScript",
       "Astro",
-      "JavaScript"
+      "Shell"
     ],
     "chapter": 6,
     "team": 5
