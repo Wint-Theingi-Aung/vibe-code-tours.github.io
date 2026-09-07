@@ -16,10 +16,12 @@ certs:
   ai_fluency: 2khj2bbwq5nq
   claude_platform_101: 3wetb5hu6b3z
   claude_cowork: 2cx97495i2r6
+  mcp_advanced: 3nrwfr6k7q7t
   building_claude_api: ppn3t6na6apq
   ai_fluency_for_students: jf6gpgi46f97
   ai_fluency_for_educators: jy4p5ctd7m8r
   ai_fluency_for_builders: 7d7727efak87
+  teaching_ai_fluency_framework: 94g4oq7cwfwi
 
   
 ---
