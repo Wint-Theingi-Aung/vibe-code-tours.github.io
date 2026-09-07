@@ -1000,30 +1000,6 @@
     "team": 14
   },
   {
-    "github": "khinmyatthu2193",
-    "name": "khinmyatthu2193",
-    "title": "May_Mays_Latt_Swal-Cooking-Assistant-Web-App",
-    "desc": "AI-powered Myanmar recipe assistant using MCP + Claude Agent for fast meal decisions.",
-    "repo_url": "https://github.com/khinmyatthu2193/May_Mays_Latt_Swal-Cooking-Assistant-Web-App",
-    "live_url": "https://may-mays-latt-swal-cooking-assistan-two.vercel.app/",
-    "slides_raw": "https://raw.githubusercontent.com/khinmyatthu2193/May_Mays_Latt_Swal-Cooking-Assistant-Web-App/main/slides/6x20.md",
-    "slides_base": "https://raw.githubusercontent.com/khinmyatthu2193/May_Mays_Latt_Swal-Cooking-Assistant-Web-App/main/slides/",
-    "screenshot_url": "https://raw.githubusercontent.com/khinmyatthu2193/May_Mays_Latt_Swal-Cooking-Assistant-Web-App/main/screenshots/01-home.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/khinmyatthu2193/May_Mays_Latt_Swal-Cooking-Assistant-Web-App/main/screenshots/01-home.png",
-      "https://raw.githubusercontent.com/khinmyatthu2193/May_Mays_Latt_Swal-Cooking-Assistant-Web-App/main/screenshots/03-results.png",
-      "https://raw.githubusercontent.com/khinmyatthu2193/May_Mays_Latt_Swal-Cooking-Assistant-Web-App/main/screenshots/02-thinking.png"
-    ],
-    "type": "web-app",
-    "stack": [
-      "CSS",
-      "JavaScript",
-      "HTML"
-    ],
-    "chapter": 6,
-    "team": 8
-  },
-  {
     "github": "kingquiet-bot",
     "name": "kingquiet-bot",
     "title": "qr-training-manager",
